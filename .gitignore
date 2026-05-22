@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+.env.local
+.vercel
+sample-code-for-coding-style-pattern
+requirements.md
